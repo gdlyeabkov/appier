@@ -45,8 +45,8 @@
             </div>
         </div>
         <div class="chat">
-            <span class="btn btn-danger material-icons w-100 h-100">
-                sports_esports
+            <span class="chatIcon btn btn-danger material-icons w-100 h-100">
+                chat_bubble
             </span>
         </div>
     </div>
@@ -117,6 +117,12 @@ export default {
         display: flex;
         align-items: flex-end;
         justify-content: center;
+    }
+
+    .chatIcon {
+        font-size: 36px;
+        box-sizing: border-box;
+        padding-top: 20px;
     }
 
 </style>

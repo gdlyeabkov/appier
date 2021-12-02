@@ -5,30 +5,30 @@
             <div class="footerTopColumns">
                 <div class="footerTopColumn">
                     <span class="footerTopColumnItem footerTopColumnHeader">
-                        Swagger Open Source
+                        Appier Open Source
                     </span>
                     <span class="footerTopColumnItem footerTopColumn">
                         Open Source License
                     </span>
                     <span class="footerTopColumnItem footerTopColumn">
-                        Swagger Forum
+                        Appier Forum
                     </span>
                     <span class="footerTopColumnItem footerTopColumn">
-                        Swagger IRC
+                        Appier IRC
                     </span>
                     <span class="footerTopColumnItem footerTopColumn">
-                        Swagger Community
+                        Appier Community
                     </span>
                     <span class="footerTopColumnItem footerTopColumn">
-                        Swagger Projects
+                        Appier Projects
                     </span>
                 </div>
                 <div class="footerTopColumn">
                     <span class="footerTopColumnItem footerTopColumnHeader">
-                        Swagger
+                        Appier
                     </span>
                     <span class="footerTopColumnItem footerTopColumn">
-                        About Swagger                        
+                        About Appier                        
                     </span>
                     <span class="footerTopColumnItem footerTopColumn">
                         Blog
@@ -48,19 +48,19 @@
                         Pro Tools
                     </span>
                     <span class="footerTopColumnItem footerTopColumn">
-                        SwaggerHub
+                        AppierHub
                     </span>
                     <span class="footerTopColumnItem footerTopColumn">
-                        Swagger Inspector
+                        Appier Inspector
                     </span>
                     <span class="footerTopColumnItem footerTopColumn">
-                        SwaggerHub Enterprise
+                        AppierHub Enterprise
                     </span>
                     <span class="footerTopColumnItem footerTopColumn">
-                        SwaggerHub vs OSS
+                        AppierHub vs OSS
                     </span>
                     <span class="footerTopColumnItem footerTopColumn">
-                        SwaggerHub Integrations
+                        AppierHub Integrations
                     </span>
                 </div>
                 <div class="footerTopColumn">
@@ -77,11 +77,11 @@
                         Open Source Docs
                     </span>
                     <span class="footerTopColumnItem footerTopColumn">
-                        Swagger Inspector Docs
+                        Appier Inspector Docs
                     </span>
                     <span class="footerTopColumnItem footerTopColumn">
                         
-                        SwaggerHub Docs
+                        AppierHub Docs
                     </span>
                 </div>
             </div>
@@ -206,7 +206,7 @@
                     <div class="footerColumnItem">
                         <img class="footerColumnElement" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgMTAwIDEwMDsiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+LnN0MHtmaWxsOiNGQ0RDMDA7fS5zdDF7ZmlsbDojMTczNjQ3O30uc3Qye2ZpbGw6I0ZGRkZGRjt9LnN0M3tmaWxsOiMyQzI4MkM7fS5zdDR7ZmlsbDojRjRDRjE0O30uc3Q1e2ZpbGw6IzYzREIyQTt9LnN0NntmaWxsOiM1MEU0RUE7fS5zdDd7ZmlsbDojMDdDRUQ2O30uc3Q4e2ZpbGw6Izg1RUEyRDt9LnN0OXtmaWxsOiMwNEFBREI7fS5zdDEwe2ZpbGw6I0ZGNzMwQjt9LnN0MTF7ZmlsbDojMTdEMUZDO30uc3QxMntmaWxsOiMwMEFBREI7fS5zdDEze2ZpbGw6bm9uZTt9PC9zdHlsZT48Zz48Zz48Zz48Zz48Zz48cGF0aCBjbGFzcz0ic3Q4IiBkPSJNNTAsOTcuMTRDMjQuMDA2LDk3LjE0LDIuODU5LDc1Ljk5NCwyLjg1OSw1MFMyNC4wMDYsMi44Niw1MCwyLjg2Uzk3LjE0LDI0LjAwNyw5Ny4xNCw1MFM3NS45OTMsOTcuMTQsNTAsOTcuMTR6Ii8+PC9nPjxnPjxnPjxwYXRoIGNsYXNzPSJzdDgiIGQ9Ik01MCw1LjIxOWMyNC43MzIsMCw0NC43ODEsMjAuMDQ5LDQ0Ljc4MSw0NC43ODFjMCwyNC43MzItMjAuMDQ5LDQ0Ljc4MS00NC43ODEsNDQuNzgxQzI1LjI2OCw5NC43ODEsNS4yMTksNzQuNzMyLDUuMjE5LDUwQzUuMjE5LDI1LjI2OCwyNS4yNjgsNS4yMTksNTAsNS4yMTkgTTUwLDAuNUMyMi43MDYsMC41LDAuNSwyMi43MDYsMC41LDUwUzIyLjcwNiw5OS41LDUwLDk5LjVjMjcuMjk1LDAsNDkuNS0yMi4yMDYsNDkuNS00OS41Uzc3LjI5NCwwLjUsNTAsMC41TDUwLDAuNXoiLz48L2c+PC9nPjwvZz48L2c+PC9nPjxwYXRoIGNsYXNzPSJzdDEiIGQ9Ik0zMS42NjksMzMuOTk3Yy0wLjE1MiwxLjY5NCwwLjA1NywzLjQ0NS0wLjA1Nyw1LjE1OGMtMC4xMzQsMS43MTMtMC4zNDMsMy40MDctMC42ODYsNS4xMDJjLTAuNDc2LDIuNDE3LTEuOTgsNC4yNDUtNC4wNTQsNS43NjhjNC4wMzYsMi42MjcsNC40OTIsNi43LDQuNzU5LDEwLjgzMWMwLjEzNCwyLjIyNywwLjA3Niw0LjQ3MywwLjMwNSw2LjY4MWMwLjE3MSwxLjcxMywwLjgzNywyLjE1MSwyLjYwOCwyLjIwOGMwLjcyMywwLjAxOSwxLjQ2NSwwLDIuMzAzLDB2NS4yOTJjLTUuMjM1LDAuODk1LTkuNTU1LTAuNTktMTAuNjIxLTUuMDI1Yy0wLjM0My0xLjYxOC0wLjU3Mi0zLjI3NC0wLjY0Ny00Ljk0OWMtMC4xMTUtMS43NywwLjA3NS0zLjU0MS0wLjA1OC01LjMxMWMtMC4zODEtNC44NTQtMS4wMDktNi40OTEtNS42NTMtNi43MTl2LTYuMDM0YzAuMzQyLTAuMDc2LDAuNjY1LTAuMTMzLDEuMDA4LTAuMTcxYzIuNTUtMC4xMzMsMy42MzUtMC45MTQsNC4xODctMy40MjdjMC4yNjctMS40MDgsMC40MTktMi44MzYsMC40NzYtNC4yODNjMC4xOTEtMi43NTksMC4xMTQtNS41NzcsMC41OS04LjMxOGMwLjY2Ni0zLjk0LDMuMTAzLTUuODQ0LDcuMTU4LTYuMDcyYzEuMTQyLTAuMDU3LDIuMzAzLDAsMy42MTYsMHY1LjQwNmMtMC41NTIsMC4wMzgtMS4wMjgsMC4xMTQtMS41MjIsMC4xMTRDMzIuMDg5LDMwLjEzMywzMS45MTcsMzEuMjU2LDMxLjY2OSwzMy45OTd6IE0zOC4wMDgsNDYuNTIyaC0wLjA3NmMtMS45MDMtMC4wOTUtMy41NCwxLjM4OS0zLjYzNiwzLjI5M2MtMC4wOTUsMS45MjMsMS4zODksMy41NiwzLjI5MywzLjY1NGgwLjIyOWMxLjg4NSwwLjExNCwzLjUwMi0xLjMzMiwzLjYxNi0zLjIxN3YtMC4xOTFDNDEuNDcyLDQ4LjE0LDM5LjkzLDQ2LjU2LDM4LjAwOCw0Ni41MjJ6IE00OS45NDMsNDYuNTIyYy0xLjg0Ny0wLjA1Ny0zLjM4OSwxLjM4OS0zLjQ0NSwzLjIxN2MwLDAuMTE0LDAsMC4yMSwwLjAyLDAuMzIzYzAsMi4wNzUsMS40MDgsMy40MDcsMy41NCwzLjQwN2MyLjA5NCwwLDMuNDA3LTEuMzcsMy40MDctMy41MjFDNTMuNDQ1LDQ3Ljg3Myw1Mi4wNTUsNDYuNTAzLDQ5Ljk0Myw0Ni41MjJ6IE02Mi4xNjMsNDYuNTIyYy0xLjk0Mi0wLjAzOC0zLjU2LDEuNTA0LTMuNjE2LDMuNDQ1YzAsMS45NDIsMS41NjEsMy41MDIsMy41MDIsMy41MDJoMC4wMzhjMS43NTEsMC4zMDUsMy41MjItMS4zODksMy42MzYtMy40MjZDNjUuODE3LDQ4LjE1OSw2NC4xMDQsNDYuNTIyLDYyLjE2Myw0Ni41MjJ6IE03OC45MzMsNDYuODA3Yy0yLjIwOC0wLjA5NS0zLjMxMi0wLjgzNy0zLjg2NC0yLjkzMWMtMC4zNDMtMS4zMzItMC41NTItMi43MjItMC42MjgtNC4wOTJjLTAuMTUyLTIuNTUtMC4xMzQtNS4xMi0wLjMwNS03LjY3MWMtMC40LTYuMDUzLTQuNzc3LTguMTY1LTExLjEzNS03LjExOXY1LjI1NGMxLjAwOCwwLDEuNzg5LDAsMi41NywwLjAxOWMxLjM1MSwwLjAxOSwyLjM3OSwwLjUzMywyLjUxMiwyLjAzN2MwLjEzNCwxLjM3LDAuMTM0LDIuNzYsMC4yNjcsNC4xNDljMC4yNjcsMi43NiwwLjQxOCw1LjU1OCwwLjg5NCw4LjI4YzAuNDE5LDIuMjQ2LDEuOTYxLDMuOTIxLDMuODgzLDUuMjkyYy0zLjM2OCwyLjI2NS00LjM1OSw1LjUwMS00LjUzLDkuMTM3Yy0wLjA5NSwyLjQ5My0wLjE1Miw1LjAwNi0wLjI4NSw3LjUxOWMtMC4xMTQsMi4yODQtMC45MTQsMy4wMjYtMy4yMTcsMy4wODNjLTAuNjQ3LDAuMDE5LTEuMjc1LDAuMDc2LTEuOTk4LDAuMTE0djUuMzg3YzEuMzUxLDAsMi41ODgsMC4wNzYsMy44MjYsMGMzLjg0NS0wLjIyOSw2LjE2OC0yLjA5NCw2LjkyOS01LjgyNWMwLjMyMy0yLjA1NiwwLjUxNC00LjEzLDAuNTcxLTYuMjA1YzAuMTMzLTEuOTAzLDAuMTE0LTMuODI2LDAuMzA1LTUuNzFjMC4yODUtMi45NSwxLjYzNy00LjE2OCw0LjU4Ny00LjM1OWMwLjI4Ni0wLjAzOCwwLjU1Mi0wLjA5NSwwLjgxOS0wLjE5di02LjAzNEM3OS42MzcsNDYuODgzLDc5LjI5NCw0Ni44MjcsNzguOTMzLDQ2LjgwN3oiLz48L2c+PC9zdmc+" alt="" width="35px">
                         <span class="footerColumnElement">
-                            Swagger
+                            Appier
                         </span>
                         <span class="material-icons footerColumnElementIcon">
                             north_east
@@ -215,7 +215,7 @@
                     <div class="footerColumnItem">
                         <img class="footerColumnElement" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgOTYgOTYiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDk2IDk2OyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PHN0eWxlIHR5cGU9InRleHQvY3NzIj4uc3Qwe2ZpbGw6I0ZDREMwMDt9LnN0MXtmaWxsOiMxNzM2NDc7fS5zdDJ7ZmlsbDojRkZGRkZGO30uc3Qze2ZpbGw6IzJDMjgyQzt9LnN0NHtmaWxsOiNGNENGMTQ7fS5zdDV7ZmlsbDojNjNEQjJBO30uc3Q2e2ZpbGw6IzUwRTRFQTt9LnN0N3tmaWxsOiMwN0NFRDY7fS5zdDh7ZmlsbDojODVFQTJEO30uc3Q5e2ZpbGw6IzA0QUFEQjt9LnN0MTB7ZmlsbDojRkY3MzBCO30uc3QxMXtmaWxsOiMxN0QxRkM7fS5zdDEye2ZpbGw6IzAwQUFEQjt9LnN0MTN7ZmlsbDpub25lO308L3N0eWxlPjxnPjxnPjxnPjxnPjxyZWN0IHg9IjIuOTU1IiB5PSIyLjk0OSIgY2xhc3M9InN0OCIgd2lkdGg9IjkwLjA4OSIgaGVpZ2h0PSI5MC4xMDEiLz48L2c+PHBhdGggY2xhc3M9InN0OCIgZD0iTTkwLjE2Miw1Ljg3N2wtMC4wODYsODQuMjk5TDUuNzk0LDg5Ljk2M0w1Ljg4LDUuODc3SDkwLjE2MnogTTk2LDBoLTUuMDQ4SDUuMDQ4SDB2NS4wNDd2ODUuOTA2Vjk2aDUuMDQ4aDg1LjkwNEg5NnYtNS4wNDdWNS4wNDdWMEw5NiwweiIvPjwvZz48L2c+PGc+PHBhdGggY2xhc3M9InN0MSIgZD0iTTI4LjU3OCwzMS4wNDRjLTAuMTYxLDEuNzk1LDAuMDYsMy42NS0wLjA2LDUuNDY1Yy0wLjE0MiwxLjgxNS0wLjM2MywzLjYxLTAuNzI3LDUuNDA1Yy0wLjUwNCwyLjU2MS0yLjA5Nyw0LjQ5Ny00LjI5NSw2LjExMWM0LjI3NiwyLjc4Myw0Ljc1OSw3LjA5OCw1LjA0MiwxMS40NzVjMC4xNDIsMi4zNTksMC4wODEsNC43MzksMC4zMjMsNy4wNzljMC4xODEsMS44MTUsMC44ODcsMi4yNzksMi43NjMsMi4zMzljMC43NjYsMC4wMiwxLjU1MiwwLDIuNDQsMHY1LjYwN2MtNS41NDYsMC45NDgtMTAuMTI0LTAuNjI1LTExLjI1NC01LjMyNGMtMC4zNjMtMS43MTQtMC42MDYtMy40NjktMC42ODUtNS4yNDRjLTAuMTIyLTEuODc1LDAuMDgtMy43NTEtMC4wNjEtNS42MjdjLTAuNDA0LTUuMTQzLTEuMDY5LTYuODc3LTUuOTg5LTcuMTE5di02LjM5M2MwLjM2Mi0wLjA4MSwwLjcwNS0wLjE0MSwxLjA2OC0wLjE4MWMyLjcwMi0wLjE0MSwzLjg1MS0wLjk2OCw0LjQzNi0zLjYzMWMwLjI4My0xLjQ5MiwwLjQ0NC0zLjAwNCwwLjUwNC00LjUzOGMwLjIwMi0yLjkyNCwwLjEyMS01LjkwOSwwLjYyNS04LjgxM2MwLjcwNi00LjE3NSwzLjI4OC02LjE5Miw3LjU4My02LjQzM2MxLjIxLTAuMDYxLDIuNDQsMCwzLjgzMiwwdjUuNzI4Yy0wLjU4NSwwLjA0LTEuMDg5LDAuMTIxLTEuNjEzLDAuMTIxQzI5LjAyMiwyNi45NTEsMjguODQsMjguMTQsMjguNTc4LDMxLjA0NHoiLz48cGF0aCBjbGFzcz0ic3QxIiBkPSJNMzguOTI0LDQ4LjA2NnYwLjIwMmMtMC4xMjEsMS45OTctMS44MzUsMy41MjktMy44MzIsMy40MDhIMzQuODVjLTIuMDE3LTAuMS0zLjU4OS0xLjgzNS0zLjQ4OS0zLjg3MmMwLjEwMS0yLjAxNywxLjgzNi0zLjU5LDMuODUyLTMuNDg5aDAuMDgxQzM3LjMzMSw0NC4zNTUsMzguOTY0LDQ2LjAyOSwzOC45MjQsNDguMDY2eiIvPjxwYXRoIGNsYXNzPSJzdDEiIGQ9Ik01MS42Nyw0Ny45NDVjMCwyLjI3OS0xLjM5MSwzLjczMS0zLjYxLDMuNzMxYy0yLjI1OSwwLTMuNzUxLTEuNDEyLTMuNzUxLTMuNjFjLTAuMDIxLTAuMTIxLTAuMDIxLTAuMjIyLTAuMDIxLTAuMzQzYzAuMDYtMS45MzYsMS42OTQtMy40NjksMy42NS0zLjQwOEM1MC4xNzcsNDQuMjk1LDUxLjY1LDQ1Ljc0Nyw1MS42Nyw0Ny45NDV6Ii8+PHBhdGggY2xhc3M9InN0MSIgZD0iTTY0LjY1OCw0OC4wNDZjLTAuMTIxLDIuMTU4LTEuOTk3LDMuOTUzLTMuODUyLDMuNjNoLTAuMDRjLTIuMDU3LDAtMy43MS0xLjY1My0zLjcxLTMuNzFjMC4wNi0yLjA1NywxLjc3NS0zLjY5MSwzLjgzMi0zLjY1QzYyLjk0NCw0NC4zMTUsNjQuNzU4LDQ2LjA0OSw2NC42NTgsNDguMDQ2eiIvPjxwYXRoIGNsYXNzPSJzdDEiIGQ9Ik03OS45MjQsNDQuNzU4djYuMzkzYy0wLjI4MywwLjEtMC41NjQsMC4xNjEtMC44NjgsMC4yMDFjLTMuMTI2LDAuMjAyLTQuNTU3LDEuNDkyLTQuODYsNC42MThjLTAuMjAyLDEuOTk3LTAuMTgyLDQuMDMzLTAuMzIzLDYuMDVjLTAuMDYsMi4xOTgtMC4yNjIsNC4zOTYtMC42MDUsNi41NzVjLTAuODA3LDMuOTUzLTMuMjY3LDUuOTI5LTcuMzQxLDYuMTcxYy0xLjMxMSwwLjA4MS0yLjYyMSwwLTQuMDUzLDBWNjkuMDZjMC43NjYtMC4wNCwxLjQzMi0wLjEwMSwyLjExNy0wLjEyMWMyLjQ0LTAuMDYxLDMuMjg3LTAuODQ3LDMuNDA4LTMuMjY3YzAuMTQxLTIuNjYyLDAuMjAyLTUuMzI0LDAuMzAyLTcuOTY2YzAuMTgxLTMuODUyLDEuMjMxLTcuMjgxLDQuOC05LjY4Yy0yLjAzNi0xLjQ1Mi0zLjY3LTMuMjI3LTQuMTE0LTUuNjA3Yy0wLjUwNC0yLjg4NC0wLjY2NS01Ljg0OC0wLjk0Ny04Ljc3M2MtMC4xNDEtMS40NzItMC4xNDEtMi45NDQtMC4yODMtNC4zOTZjLTAuMTQxLTEuNTkzLTEuMjMtMi4xMzgtMi42NjItMi4xNThjLTAuODI3LTAuMDItMS42NTQtMC4wMi0yLjcyMy0wLjAydi01LjU2NmM2LjczNy0xLjEwOSwxMS4zNzUsMS4xMjksMTEuNzk4LDcuNTQzYzAuMTgxLDIuNzAzLDAuMTYxLDUuNDI1LDAuMzIzLDguMTI4YzAuMDgxLDEuNDUyLDAuMzAyLDIuOTI1LDAuNjY2LDQuMzM2YzAuNTg0LDIuMjE5LDEuNzU0LDMuMDA1LDQuMDk0LDMuMTA2Qzc5LjAzNyw0NC42MzgsNzkuNDAxLDQ0LjY5OCw3OS45MjQsNDQuNzU4eiIvPjwvZz48L2c+PC9zdmc+" alt="" width="35px">
                         <span class="footerColumnElement">
-                            SwaggerHub
+                            AppierHub
                         </span>
                         <span class="material-icons footerColumnElementIcon">
                             north_east
@@ -300,7 +300,7 @@
             </div>
             <div class="footerMiddleFooter">
                 <div class="footerMiddleFooterItem">
-                    <span class="footerMiddleFooterItemLabel footerMiddleItemHeader">
+                    <span class="footerMiddleElement footerMiddleFooterItemLabel footerMiddleItemHeader">
                         Contact Us
                     </span>
                     <span class="material-icons footerMiddleFooterItemIcon">
@@ -308,33 +308,42 @@
                     </span>
                 </div>
                 <div class="footerMiddleFooterItem">
-                    <span class="footerMiddleFooterItemLabel">
+                    <span class="footerMiddleFooterItemLabel footerSeparator">
                         |
                     </span>
                 </div>
                 <div class="footerMiddleFooterItem">
                     <span class="footerMiddleFooterItemLabel">
-                        +1 617-684-2600 USA
+                        +1 617-684-2600
+                    </span>
+                    <span class="footerMiddleFooterItemIcon">
+                        USA
                     </span>
                 </div>
                 <div class="footerMiddleFooterItem">
-                    <span class="footerMiddleFooterItemLabel">
+                    <span class="footerMiddleFooterItemLabel footerSeparator">
                         |
                     </span>
                 </div>
                 <div class="footerMiddleFooterItem">
                     <span class="footerMiddleFooterItemLabel">
-                        +353 91 398300 EUR
+                        +353 91 398300
+                    </span>
+                    <span class="footerMiddleFooterItemIcon">
+                        EUR
                     </span>
                 </div>
                 <div class="footerMiddleFooterItem">
-                    <span class="footerMiddleFooterItemLabel">
+                    <span class="footerMiddleFooterItemLabel footerSeparator">
                         |
                     </span>
                 </div>
                 <div class="footerMiddleFooterItem">
                     <span class="footerMiddleFooterItemLabel footerMiddleFooterItemHeader">
-                        +61 391929960 AUS
+                        +61 391929960
+                    </span>
+                    <span class="footerMiddleFooterItemIcon">
+                        AUS
                     </span>
                 </div>
             </div>
@@ -361,31 +370,31 @@
             </div>
             <div class="footerBottomRow">
                 <div class="footerBottomRowItem">
-                    <span class="footerBottomRowItemElement">
+                    <span class="footerBottomRowItemElement footerColumnElementLink">
                         Privacy
                     </span>
-                    <span class="footerBottomRowItemElement">
+                    <span class="footerBottomRowItemElement footerColumnElementSeparator">
                         |
                     </span>
-                    <span class="footerBottomRowItemElement">
+                    <span class="footerBottomRowItemElement footerColumnElementLink">
                         Terms of Use
                     </span>
-                    <span class="footerBottomRowItemElement">
+                    <span class="footerBottomRowItemElement footerColumnElementSeparator">
                         |
                     </span>
-                    <span class="footerBottomRowItemElement">
+                    <span class="footerBottomRowItemElement footerColumnElementLink">
                         Site Map
                     </span>
-                    <span class="footerBottomRowItemElement">
+                    <span class="footerBottomRowItemElement footerColumnElementSeparator">
                         |
                     </span>
-                    <span class="footerBottomRowItemElement">
+                    <span class="footerBottomRowItemElement footerColumnElementLink">
                         Website Terms of Use
                     </span>
-                    <span class="footerBottomRowItemElement">
+                    <span class="footerBottomRowItemElement footerColumnElementSeparator">
                         |
                     </span>
-                    <span class="footerBottomRowItemElement">
+                    <span class="footerBottomRowItemElement footerColumnElementLink">
                         Security
                     </span>
                 </div>
@@ -428,7 +437,7 @@ export default {
     }
 
     .footerMiddle {
-        background-color: rgb(0, 50, 100);
+        background-color: rgb(0, 60, 80);
         height: 700px;
         box-sizing: border-box;
         padding: 35px;
@@ -437,7 +446,7 @@ export default {
     }
 
     .footerBottom {
-        background-color: rgb(25, 25, 25);
+        background-color: rgb(35, 35, 35);
         height: 165px;
         box-sizing: border-box;
         padding: 25px 65px;
@@ -474,6 +483,11 @@ export default {
         color: rgb(255, 255, 255);
         font-size: 18px;
         margin: 3px;
+        cursor: pointer;
+    }
+
+    .footerTopColumnItem:hover {
+        text-decoration: underline;
     }
 
     .footerTopColumns {
@@ -521,6 +535,7 @@ export default {
     .footerMiddleFooterItemIcon {
         margin: 0px 10px;
         color: rgb(150, 150, 150);
+        font-weight: bold;
     }
 
     .footerMiddleItemHeader {
@@ -546,16 +561,40 @@ export default {
     .footerColumnItem {
         display: flex;
         margin: 10px 0px;
+        cursor: pointer;
+    }
+
+    .footerColumnElement:hover {
+        text-decoration: underline;
+        color: rgb(200, 200, 255);
     }
 
     .footerColumnElement {
-        color: rgb(255, 255, 255);
+        color: rgb(200, 200, 255);
         margin: 0px 10px;
+        font-size: 18px;
     }
 
     .footerColumnElementIcon {
         color: rgb(150, 150, 150);
         font-size: 16px;
+    }
+
+    .footerColumnElementLink {
+        cursor: pointer;
+    }
+
+    .footerColumnElementLink:hover {
+        text-decoration: underline;
+    }
+
+    .footerColumnElementSeparator {
+        font-weight: bold;
+        color: rgb(150, 150, 150);
+    }
+
+    .footerSeparator {
+        font-weight: bolder;
     }
 
 </style>

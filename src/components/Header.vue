@@ -1,7 +1,7 @@
 <template>
     <div class="header">
         <div class="headerItem headerItemLeft">
-            <img class="headerItemElement" src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="" width="165px" />
+            <img @click="$router.push({ name: 'Home' })" class="headerItemElement headerLogo" src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="" width="165px" />
             <div class="headerItemElement">
                 <span class="headerItemElementItem headerItemElementItemLabel">
                     Why Appier
@@ -34,11 +34,11 @@
                 </span>
             </div>
             <div class="headerItemElement">
-                <button class="btn btn-light signInBtn">
+                <button class="btn btn-light signInBtn" @click="$router.push({ name: 'SignIn' })">
                     Sign In
                 </button>
             </div>
-            <div class="headerItemElement">
+            <div class="headerItemElement" @click="$router.push({ name: 'TryFree' })">
                 <button class="btn btn-success">
                     Try Free
                 </button>
@@ -61,6 +61,7 @@ export default {
 <style scoped>
     
     .header {
+        z-index: 5;
         position: fixed;
         top: 0px;
         left: 0px;
@@ -123,6 +124,10 @@ export default {
         font-size: 36px;
         box-sizing: border-box;
         padding-top: 20px;
+    }
+
+    .headerLogo {
+        cursor: pointer;
     }
 
 </style>

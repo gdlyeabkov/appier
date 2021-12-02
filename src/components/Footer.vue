@@ -1,6 +1,5 @@
 <template>
     <div class="footer">
-        &nbsp;
         <div class="footerItem footerTop">
             <img class="footerTopLogo" width="150px" src="https://static1.smartbear.co/swagger/media/images/logos/sw_full-wt.svg" alt="" />
             <div class="footerTopColumns">
@@ -129,7 +128,59 @@
             </div>
         </div>
         <div class="footerItem footerBottom">
-            
+            <div class="footerBottomRow">
+                <span class="copyright">
+                    © 2021 SmartBear Software. All Rights Reserved.
+                </span>
+                <div>
+                    <button class="fab fa-twitter btn btn btn-light socialMediaBtn">
+                        
+                    </button>
+                    <button class="fab fa-facebook btn btn btn-light socialMediaBtn">
+                        
+                    </button>
+                    <button class="fab fa-linkedin btn btn btn-light socialMediaBtn">
+                        
+                    </button>
+                    <button class="fab fa-youtube btn btn btn-light socialMediaBtn">
+                        
+                    </button>
+                </div>
+            </div>
+            <div class="footerBottomRow">
+                <div class="footerBottomRowItem">
+                    <span class="footerBottomRowItemElement">
+                        Privacy
+                    </span>
+                    <span class="footerBottomRowItemElement">
+                        |
+                    </span>
+                    <span class="footerBottomRowItemElement">
+                        Terms of Use
+                    </span>
+                    <span class="footerBottomRowItemElement">
+                        |
+                    </span>
+                    <span class="footerBottomRowItemElement">
+                        Site Map
+                    </span>
+                    <span class="footerBottomRowItemElement">
+                        |
+                    </span>
+                    <span class="footerBottomRowItemElement">
+                        Website Terms of Use
+                    </span>
+                    <span class="footerBottomRowItemElement">
+                        |
+                    </span>
+                    <span class="footerBottomRowItemElement">
+                        Security
+                    </span>
+                </div>
+                <div>
+
+                </div>
+            </div>
         </div>
     </div>
 </template>
@@ -174,8 +225,10 @@ export default {
     }
 
     .footerBottom {
-        background-color: rgb(50, 50, 50);
+        background-color: rgb(25, 25, 25);
         height: 165px;
+        box-sizing: border-box;
+        padding: 25px 65px;
     }
 
     .footerMiddleHeaderLabel {
@@ -214,6 +267,26 @@ export default {
     .footerTopColumns {
         display: flex;
         justify-content: center;
+    }
+
+    .footerBottomRow {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .copyright {
+        color: rgb(150, 150, 150);
+        font-size: 18px;
+    }
+
+    .socialMediaBtn {
+        margin: 0px 5px;
+    }
+
+    .footerBottomRowItemElement {
+        color: rgb(255, 255, 255);    
+        margin: 0px 5px;
+        font-size: 18px;
     }
 
 </style>

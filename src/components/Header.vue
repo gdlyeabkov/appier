@@ -44,6 +44,11 @@
                 </button>
             </div>
         </div>
+        <div class="chat">
+            <span class="btn btn-danger material-icons w-100 h-100">
+                sports_esports
+            </span>
+        </div>
     </div>
 </template>
 
@@ -101,6 +106,17 @@ export default {
     .signInBtn {
         border: 1px solid rgb(0, 150, 0);
         background-color: rgb(255, 255, 255);
+    }
+
+    .chat {
+        position: fixed;
+        top: calc(100% - (75px + 25px));
+        left: calc(100% - (75px + 25px));
+        width: 75px;
+        height: 75px;
+        display: flex;
+        align-items: flex-end;
+        justify-content: center;
     }
 
 </style>
